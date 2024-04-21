@@ -35,5 +35,5 @@ Feel free to explore my projects and reach out to me if you'd like to collaborat
 ## Contact
 
 - Email: pravindpanday@gmail.com
-- LinkedIn: Prvind Panday(https://www.linkedin.com/in/prvindpanday/)
-- GitHub: Prvind Panday (https://github.com/prvindpanday)
+- LinkedIn: [Prvind Panday](https://www.linkedin.com/in/prvindpanday/)
+- GitHub:  [Prvind Panday](https://github.com/prvindpanday)
