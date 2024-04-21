@@ -23,6 +23,7 @@ I'm Prvind Panday, a passionate Flutter Developer with three years of experience
 
 - Description: A sleek e-commerce platform tailored to the unique needs of our client.
 - Technologies: Flutter, Firebase, PHP
+[Delidel](https://play.google.com/store/apps/details?id=com.delidel.androidapp&hl=en&gl=US)
 
 ### SkyGuard (In Progress)
 
