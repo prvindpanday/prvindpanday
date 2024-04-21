@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Prvind Panday, a passionate Flutter Developer with three years of experience in building cross-platform mobile applications. I have a solid background in Java, PHP, JavaScript, and project management tools like Jira and GitHub. 
+
+## Projects
+
+### Delidel
+
+- Description: A sleek e-commerce platform tailored to the unique needs of our client.
+- Technologies: Flutter, Firebase, PHP
+
+### SkyGuard (In Progress)
+
+- Description: An innovative drone management system designed to revolutionize aerial surveillance and security.
+- Technologies: Flutter, Firebase, Supabase, Sentry
+
+Feel free to explore my projects and reach out to me if you'd like to collaborate or learn more!
+
+## Contact
+
+- Email: pravindpanday@gmail.com
+- LinkedIn: Prvind Panday(https://www.linkedin.com/in/prvindpanday/)
+- GitHub: Prvind Panday (https://github.com/prvindpanday)
